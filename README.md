@@ -23,3 +23,6 @@ python3 random_light_rain_thunder.py \
 ```
 
 ### シード値固定してません
+
+
+~~README、ChatGPTに書かせれば良かった~~
