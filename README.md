@@ -26,8 +26,8 @@ python3 random_light_rain_thunder.py \
 
 
 ~~README、ChatGPTに書かせれば良かった~~
+### 延長は需要があれば、できる範囲でします。
+~~多分めんどくさくてやらないかも~~
 
 ## 英語版欲しかったらIssueください
 ## If you'd like an English version, please open an issue.
-
-あああ
